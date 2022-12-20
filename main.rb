@@ -1,4 +1,4 @@
-coin = rand(11)
+coin = rand(5)
 
 if coin == 0
   puts "монетка вставала на ребро"
